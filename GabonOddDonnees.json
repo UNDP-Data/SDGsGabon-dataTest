@@ -1,0 +1,4149 @@
+{
+    "1": [
+        {
+            "codeCible": "1.1",
+            "cible": "D’ici à 2030, éliminer complètement l’extrême pauvreté dans le monde entier (s’entend actuellement du fait de vivre avec moins de 5,7 dollar par jour)",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "1.1.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "1.1.1 Proportion de la population vivant au-dessous du seuil de pauvreté fixé au niveau international, par sexe, âge et lieu de résidence (zone urbaine/zone rurale) (5,5 dollars/jour) (%)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2017": "32.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Banque mondiale"
+                }
+            ]
+        },
+        {
+            "codeCible": "1.2",
+            "cible": "D’ici à 2030, réduire de moitié au moins la proportion d’hommes, de femmes et d’enfants de tous âges souffrant d’une forme ou l’autre de pauvreté, telle que définie par chaque pays",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "1.2.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "1.2.1 Proportion de la population vivant au-dessous du seuil national de pauvreté, par sexe et lieu de résidence (5,7 dollars/jour) (%)",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2005": "32.7",
+                                "2017": "33.4"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2005": "29.8",
+                                "2017": "32.5"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2005": "44.6",
+                                "2017": "35.8"
+                            }
+                        },
+                        {
+                            "description": "Hommes",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2005": "31.2",
+                                "2017": "29.4"
+                            }
+                        },
+                        {
+                            "description": "Femmes",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2005": "36.9",
+                                "2017": "59.5"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Direction Générale de la Statistique (DGS)/Enquête Gabonaise pour l’Evaluation et le Suivi de la Pauvreté I & II (EGEP 2005, 2017)"
+                }
+            ]
+        },
+        {
+            "codeCible": "1.3",
+            "cible": "Mettre en place des systèmes et mesures de protection sociale pour tous, adaptés au contexte national, y compris des socles de protection sociale, et faire en sorte que, d’ici à 2030, une part importante des pauvres et des personnes vulnérables en bénéficient",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "1.3.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "1.3.1 Proportion de la population bénéficiant de socles ou systèmes de protection sociale, par sexe et par groupes de population (enfants, chômeurs, personnes âgées, personnes handicapées, femmes enceintes et nouveau-nés, victimes d’un accident du travail, pauvres et personnes vulnérables)",
+                    "donnees": [
+                        {
+                            "description": "Bénéficiaires des « allocations annuelles aux personnes en situation de handicap »",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "21.3",
+                                "2020": "21.7",
+                                "2021": "23.1"
+                            }
+                        },
+                        {
+                            "description": "Bénéficiaires de « l’aide technique aux handicapés »",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "53"
+                            }
+                        },
+                        {
+                            "description": "Bénéficiaires de « l’aide à la scolarité ou à la formation »",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "324"
+                            }
+                        },
+                        {
+                            "description": "Bénéficiaires des « tickets modérateurs » des Gabonais Économiquement Faibles (GEF) ",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "144",
+                                "2021": "140"
+                            }
+                        },
+                        {
+                            "description": "Bénéficiaires de « l’assistance aux personnes démunies »",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "7",
+                                "2021": "9"
+                            }
+                        },
+                        {
+                            "description": "Bénéficiaires des « autres dépenses/Office pharmaceutique »",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "12"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère des Affaires Sociales et des Droits de la Femme/ Caisse Nationale d’Assurance maladie et de Garantie Sociale (CNAMGS), DGS-calculs sur la population des personnes vivant avec un handicap du RGPL 2013"
+                }
+            ]
+        },
+        {
+            "codeCible": "1.4",
+            "cible": "D’ici à 2030, faire en sorte que tous les hommes et les femmes, en particulier les pauvres et les personnes vulnérables, aient les mêmes droits aux ressources économiques et qu’ils aient accès aux services de base, à la propriété foncière, au contrôle des terres et à d’autres formes de propriété, à l’héritage, aux ressources naturelles et à des nouvelles technologies et des services financiers adaptés à leurs besoins, y compris la microfinance",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "1.4.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "1.4.1 Proportion de la population vivant dans des ménages ayant accès aux services de base (%) (l’accès simultané à l’éducation primaire, à l’eau potable, aux toilettes améliorées, à l’électricité et aux combustibles propres) ",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2017": "50"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2017": "66"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2017": "6.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS/EGEP 2017"
+                }
+            ]
+        },
+        {
+            "codeCible": "1.5",
+            "cible": "D’ici à 2030, renforcer la résilience des pauvres et des personnes en situation vulnérable et réduire leur exposition aux phénomènes climatiques extrêmes et à d’autres chocs et catastrophes d’ordre économique, social ou environnemental et leur vulnérabilité",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "1.5.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "1.5.4",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "1.a",
+            "cible": "Garantir une mobilisation importante de ressources provenant de sources multiples, y compris par le renforcement de la coopération pour le développement, afin de doter les pays en développement, en particulier les pays les moins avancés, de moyens adéquats et prévisibles de mettre en œuvre des programmes et politiques visant à mettre fin à la pauvreté sous toutes ses formes",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "1.a.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "1.a.2 Proportion des dépenses publiques totales affectée aux services essentiels (éducation, santé et protection sociale)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "23.8"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "annexe Loi des finances 2021"
+                }
+            ]
+        },
+        {
+            "codeCible": "1.b",
+            "cible": "Mettre en place aux niveaux national, régional et international des cadres d’action viables, fondés sur des stratégies de développement favorables aux pauvres et soucieuses de la problématique hommes-femmes, afin d’accélérer l’investissement dans des mesures d’élimination de la pauvreté",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "1.b.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "1.b.1 Dépenses sociales publiques favorables aux pauvres (en milliards F CFA)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "0.9",
+                                "2020": "1.3",
+                                "2021": "1.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère des Affaires Sociales et des Droits de la Femme/ CNAMGS"
+                }
+            ]
+        }
+    ],
+    "2": [
+        {
+            "codeCible": "2.1",
+            "cible": "D’ici à 2030, éliminer la faim et faire en sorte que chacun, en particulier les pauvres et les personnes en situation vulnérable, y compris les nourrissons, ait accès toute l’année à une alimentation saine, nutritive et suffisante",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "2.1.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "2.1.1 Prévalence de la sous-alimentation (%)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "14.7",
+                                "2017": "16",
+                                "2019": "15.7"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "FAO"
+                },
+                {
+                    "codeIndicateur": "2.1.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "2.2",
+            "cible": "D’ici à 2030, mettre fin à toutes les formes de malnutrition, y compris en atteignant d’ici à 2025 les objectifs arrêtés à l’échelle internationale relatifs aux retards de croissance et à l’émaciation chez les enfants de moins de 5 ans, et répondre aux besoins nutritionnels des adolescentes, des femmes enceintes ou allaitantes et des personnes âgées",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "2.2.1",
+                    "graphique": "GroupeLignesDouble",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "2.2.1 Prévalence du retard de croissance (indice taille/âge) (%)",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {}
+                        },
+                        {
+                            "description": "Garçons",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2000": "22.5",
+                                "2012": "19"
+                            }
+                        },
+                        {
+                            "description": "Filles",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2000": "18.8",
+                                "2012": "13.9"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2000": "17.4",
+                                "2012": "14.1"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2000": "29",
+                                "2012": "28.5"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Direction Générale des Statistiques/Enquête Démographique et de Santé (EDS)2000 & 2012"
+                },
+                {
+                    "codeIndicateur": "2.2.2",
+                    "graphique": "GroupeLignesDouble",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "2.2.2 Prévalence de la malnutrition (indice poids/taille) (%)",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {}
+                        },
+                        {
+                            "description": "Garçons",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2000": "2.8",
+                                "2012": "3.4"
+                            }
+                        },
+                        {
+                            "description": "Filles",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2000": "2.5",
+                                "2012": "3.2"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2000": "2.7",
+                                "2012": "3"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2000": "2.7",
+                                "2012": "3"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Direction Générale des Statistiques, EDS"
+                },
+                {
+                    "codeIndicateur": "2.2.3",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "2.2.3 Prévalence de l’anémie chez les femmes âgées de 15 à 49 ans, selon l’état de grossesse (%)",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "60.6"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Direction Générale des Statistiques/Enquête Démographique et de Santé (EDS)2000 & 2012"
+                }
+            ]
+        },
+        {
+            "codeCible": "2.3",
+            "cible": "D’ici à 2030, doubler la productivité agricole et les revenus des petits producteurs alimentaires, en particulier des femmes, des autochtones, des exploitants familiaux, des éleveurs et des pêcheurs, y compris en assurant l’égalité d’accès aux terres, aux autres ressources productives et facteurs de production, au savoir, aux services financiers, aux marchés et aux possibilités d’ajout de valeur et d’emplois autres qu’agricoles",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "2.3.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "2.3.1 Volume de production par unité de travail, en fonction de la taille de l’exploitation agricole, pastorale ou forestière (tonnes/ ha)",
+                    "donnees": [
+                        {
+                            "description": "Banane",
+                            "unite": "tonnes",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "15"
+                            }
+                        },
+                        {
+                            "description": "Manioc",
+                            "unite": "tonnes",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "8"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Direction Générale de l’Agriculture"
+                },
+                {
+                    "codeIndicateur": "2.3.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "2.3.2 Revenu moyen des petits producteurs alimentaires, selon le sexe et le statut d’autochtone, (en millions FCFA par an) ",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "5"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Direction Générale de l’Agriculture"
+                }
+            ]
+        },
+        {
+            "codeCible": "2.4",
+            "cible": "D’ici à 2030, assurer la viabilité des systèmes de production alimentaire et mettre en œuvre des pratiques agricoles résilientes qui permettent d’accroître la productivité et la production, contribuent à la préservation des écosystèmes, renforcent la capacité d’adaptation aux changements climatiques, aux phénomènes météorologiques extrêmes, à la sécheresse, aux inondations et à d’autres catastrophes et améliorent progressivement la qualité des terres et des sols  ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "2.4.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "2.4.1 Proportion des zones agricoles exploitées de manière productive et durable (%)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "80"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Direction Générale de l’Agriculture "
+                }
+            ]
+        },
+        {
+            "codeCible": "2.5",
+            "cible": "Préserver la diversité génétique des semences, des cultures et des animaux d’élevage ou domestiqués et des espèces sauvages apparentées d’ici à 2020.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "2.5.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "2.5.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        }
+    ],
+    "3": [
+        {
+            "codeCible": "3.1",
+            "cible": "D’ici à 2030, faire passer le taux mondial de mortalité maternelle au-dessous de 70 pour 100 000 naissances vivantes",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "3.1.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.1.1 Taux de mortalité maternelle (pour 100 000 naissances vivantes)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "316",
+                                "2017": "277",
+                                "2019": "252"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Santé, DGS (enquête démographique et de santé, RGPL2013)"
+                },
+                {
+                    "codeIndicateur": "3.1.2",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.1.2 Proportion d’accouchements assistés par du personnel de santé qualifié (%)",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2012": "90"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "93.6"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "70.3"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Santé, DGS (Enquête Démographique et de Santé (EDS)2012, RGPL2013 2013)"
+                }
+            ]
+        },
+        {
+            "codeCible": "3.2",
+            "cible": "D’ici à 2030, éliminer les décès évitables de nouveau-nés et d’enfants de moins de 5 ans, tous les pays devant chercher à ramener la mortalité néonatale à 12 pour 1 000 naissances vivantes au plus et la mortalité des enfants de moins de 5 ans à 25 pour 1 000 naissances vivantes au plus",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "3.2.1",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.2.1 Taux de mortalité des enfants de moins de 5 ans (pour 1000 naissances vivantes)",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "65",
+                                "2017": "60",
+                                "2019": "42.5"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {
+                                "2012": "61"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {
+                                "2012": "77"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Santé, DGS (Enquête Démographique et de Santé (EDS)2012)"
+                },
+                {
+                    "codeIndicateur": "3.2.2",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.2.2 Taux de mortalité néonatale (pour 1000 naissances vivantes)",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2012": "26"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "26"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "23"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS /Enquête Démographique et de Santé (EDS) 2012"
+                }
+            ]
+        },
+        {
+            "codeCible": "3.3",
+            "cible": "D’ici à 2030, mettre fin à l’épidémie de sida, à la tuberculose, au paludisme et aux maladies tropicales négligées et combattre l’hépatite, les maladies transmises par l’eau et autres maladies transmissibles",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "3.3.1",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.3.1 Nombre de nouvelles infections à VIH pour 1000 personnes séronégatives, par sexe, âge et appartenance à un groupe de population à risque",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2012": "4.1",
+                                "2017": "3.1",
+                                "2019": "1.5"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {
+                                "2012": "5.8"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {
+                                "2012": "2.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Santé, DGS (Enquête Démographique et de Santé (EDS)2012)"
+                },
+                {
+                    "codeIndicateur": "3.3.2",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.3.2 Incidence de la tuberculose pour 1000 habitants ",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2017": "529",
+                                "2019": "521"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Santé,OMS"
+                },
+                {
+                    "codeIndicateur": "3.3.3",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.3.3 Incidence du paludisme pour 1000 habitants ",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "265.4",
+                                "2018": "223.5",
+                                "2019": "211.9"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Santé"
+                },
+                {
+                    "codeIndicateur": "3.3.4",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.3.4 Incidence de l’hépatite B pour 100000 habitants ",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "4.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Santé"
+                },
+                {
+                    "codeIndicateur": "3.3.5",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "3.4",
+            "cible": "réduire d’un tiers, par la prévention et le traitement, le taux de mortalité prématurée due à des maladies non transmissibles et promouvoir la santé mentale et le bien-être.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "3.4.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "3.4.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "3.6",
+            "cible": "diminuer de moitié à l’échelle mondiale le nombre de décès et de blessures dus à des accidents de la route.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "3.6.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "3.7",
+            "cible": "assurer l’accès de tous à des services de soins de santé sexuelle et procréative.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "3.7.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.7.1 Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale",
+                    "donnees": [
+                        {
+                            "description": "3.7.1 Proportion de femmes en âge de procréer (15 à 49 ans) qui utilisent des méthodes modernes de planification familiale",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "33.6",
+                                "2019": "51.7"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS (Enquête Démographique et de Santé (EDS)2012),OMS"
+                },
+                {
+                    "codeIndicateur": "3.7.2",
+                    "graphique": "GroupeBarres",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.7.2 Taux de natalité chez les adolescentes (10 à 14 ans et 15 à 19 ans) pour 1 000 adolescentes du même groupe d’âge",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "",
+                            "groupe": "1",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2015": "114"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "109"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "199"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {
+                        "1": "15 à 19 ans"
+                    },
+                    "source": "DGS (Enquête Démographique et de Santé (EDS)2012)"
+                }
+            ]
+        },
+        {
+            "codeCible": "3.8",
+            "cible": "Faire en sorte que chacun bénéficie d’une couverture sanitaire universelle.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "3.8.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.8.1 Couverture de services de santé essentiels ",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "26",
+                                "2018": "65",
+                                "2019": "66"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Santé"
+                },
+                {
+                    "codeIndicateur": "3.8.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.8.2 Proportion de la population consacrant une grande part de ses dépenses ou de ses revenus domestiques aux services de soins de santé",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2018": "1.4"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS (EGEP 2017)"
+                }
+            ]
+        },
+        {
+            "codeCible": "3.c",
+            "cible": "Accroître considérablement le budget de la santé et le recrutement, le perfectionnement, la formation et le maintien en poste du personnel de santé.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "3.c.1",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "3.c.1 Densité et répartition du personnel de santé",
+                    "donnees": [
+                        {
+                            "description": "Densité (pour 1000 habitants)",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2018": "4.8",
+                                "2019": "3.2"
+                            }
+                        },
+                        {
+                            "description": "Répartition",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {}
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Santé, OMS"
+                }
+            ]
+        },
+        {
+            "codeCible": "3.d",
+            "cible": "Renforcer les moyens en matière d’alerte rapide, de réduction des risques et de gestion des risques sanitaires nationaux et mondiaux.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "3.d.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        }
+    ],
+    "4": [
+        {
+            "codeCible": "4.1",
+            "cible": "D’ici à 2030, faire en sorte que toutes les filles et tous les garçons suivent, sur un pied d’égalité, un cycle complet d’enseignement primaire et secondaire gratuit et de qualité, les dotant d’acquis véritablement utiles",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "4.1.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "4.1.1 Proportion d’enfants et de jeunes en fin de cycle primaire qui maîtrisent au moins les normes d’aptitudes minimales ",
+                    "donnees": [
+                        {
+                            "description": "En lecture (%)",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "93.4"
+                            }
+                        },
+                        {
+                            "description": "En mathématiques (%) ",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "66.7"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Education Nationale/annuaire statistique de l’éducation 2018/2019"
+                },
+                {
+                    "codeIndicateur": "4.1.2",
+                    "graphique": "GroupeBarres",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "4.1.2 Taux d’achèvement ",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2019": "79"
+                            }
+                        },
+                        {
+                            "description": "Garçons",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "82"
+                            }
+                        },
+                        {
+                            "description": "Filles",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "77"
+                            }
+                        },
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2019": "59"
+                            }
+                        },
+                        {
+                            "description": "Garçons",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "62"
+                            }
+                        },
+                        {
+                            "description": "Filles",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "56"
+                            }
+                        },
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2019": "32"
+                            }
+                        },
+                        {
+                            "description": "Garçons",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "35"
+                            }
+                        },
+                        {
+                            "description": "Filles",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "29"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {
+                        "1": "Enseignement primaire (%) ",
+                        "2": "1er cycle de l’enseignement secondaire (%)",
+                        "3": "2nd cycle de l’enseignement secondaire (%)"
+                    },
+                    "source": "Ministère de l’Education Nationale/annuaire statistique de l’éducation 2018/2019"
+                }
+            ]
+        },
+        {
+            "codeCible": "4.2",
+            "cible": "D’ici à 2030, faire en sorte que toutes les filles et tous les garçons aient accès à des services de développement et de prise en charge de la petite enfance et à une éducation préscolaire de qualité qui les préparent à suivre un enseignement primaire plus",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "4.2.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "4.2.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "4.3",
+            "cible": "D’ici à 2030, faire en sorte que toutes les femmes et tous les hommes aient accès dans des conditions d’égalité à un enseignement technique, professionnel ou tertiaire, y compris universitaire, de qualité et d’un coût abordable",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "4.3.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "4.5",
+            "cible": "D’ici à 2030, éliminer les inégalités entre les sexes dans le domaine de l’éducation et assurer l’égalité d’accès des personnes vulnérables, y compris les personnes handicapées, les autochtones et les enfants en situation vulnérable, à tous les niveaux d’enseignement et de formation professionnelle",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "4.5.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "4.5.1 : Indices de parité (femmes/hommes, urbain/rural, quintile inférieur/supérieur de richesse et autres paramètres tels que le handicap, le statut d’autochtone et les situations de conflit, à mesure que les données deviennent disponibles) pour tous les indicateurs dans le domaine de l’éducation de cette liste pouvant être ventilés (Taux d’achèvement)",
+                    "donnees": [
+                        {
+                            "description": "Primaire",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "106"
+                            }
+                        },
+                        {
+                            "description": "1er cycle du secondaire ",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "110"
+                            }
+                        },
+                        {
+                            "description": "2nd cycle du secondaire",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "121"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Éducation Nationale/annuaire statistique de l’éducation 2018/2019"
+                }
+            ]
+        },
+        {
+            "codeCible": "4.6",
+            "cible": "D’ici à 2030, faire en sorte que tous les jeunes et une proportion considérable d’adultes, hommes et femmes, sachent lire, écrire et compter",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "4.6.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "4.a",
+            "cible": "text missing!!",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "4.a.1",
+                    "graphique": "GroupeBarres",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "4.a.1 Proportion d’établissements scolaires offrant des services essentiels, par type de service ",
+                    "donnees": [
+                        {
+                            "description": "Préscolaire",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "86"
+                            }
+                        },
+                        {
+                            "description": "Primaire",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "81"
+                            }
+                        },
+                        {
+                            "description": "Secondaire général",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "97"
+                            }
+                        },
+                        {
+                            "description": "Secondaire technique et professionnel",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "100"
+                            }
+                        },
+                        {
+                            "description": "Préscolaire",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "70"
+                            }
+                        },
+                        {
+                            "description": "Primaire",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "97"
+                            }
+                        },
+                        {
+                            "description": "Secondaire général",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "93"
+                            }
+                        },
+                        {
+                            "description": "Secondaire technique et professionnel",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "78"
+                            }
+                        },
+                        {
+                            "description": "Préscolaire",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "73"
+                            }
+                        },
+                        {
+                            "description": "Primaire",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "89"
+                            }
+                        },
+                        {
+                            "description": "Secondaire général",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "96"
+                            }
+                        },
+                        {
+                            "description": "Secondaire technique et professionnel",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {}
+                        }
+                    ],
+                    "titreGroupe": {
+                        "1": "Accès à l'électricité ",
+                        "2": "Accès à une alimentation de base en eau potable ",
+                        "3": "Accès à des installations sanitaires de base séparées pour garçons et filles "
+                    },
+                    "source": "Ministère de l’Education Nationale"
+                }
+            ]
+        },
+        {
+            "codeCible": "4.b",
+            "cible": "D’ici à 2020, augmenter nettement à l’échelle mondiale le nombre de bourses d’études offertes à des étudiants des pays en développement, en particulier des pays les moins avancés, des petits États insulaires en développement et des pays d’Afrique, pour leur permettre de suivre des études supérieures, y compris une formation professionnelle, des cursus informatiques, techniques et scientifiques et des études d’ingénieur, dans des pays développés et d’autres pays en développement",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "4.b.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "4.c",
+            "cible": "D’ici à 2030, accroître nettement le nombre d’enseignants qualifiés, notamment au moyen de la coopération internationale pour la formation d’enseignants dans les pays en développement, surtout dans les pays les moins avancés et les petits États insulaires en développement",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "4.c.1",
+                    "graphique": "GroupeBarres",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "4.c.1 Proportion d'enseignants ayant les qualifications minimales requises par niveau d'étude (%) ",
+                    "donnees": [
+                        {
+                            "description": "Hommes",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "4"
+                            }
+                        },
+                        {
+                            "description": "Femmes",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "68"
+                            }
+                        },
+                        {
+                            "description": "Hommes",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "31"
+                            }
+                        },
+                        {
+                            "description": "Femmes",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "40"
+                            }
+                        },
+                        {
+                            "description": "Hommes",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "65"
+                            }
+                        },
+                        {
+                            "description": "Femmes",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "22"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {
+                        "1": "Pré-primaire",
+                        "2": "Primaire",
+                        "3": "Secondaire"
+                    },
+                    "source": ""
+                }
+            ]
+        }
+    ],
+    "5": [
+        {
+            "codeCible": "5.1",
+            "cible": "Mettre fin, partout dans le monde, à toutes les formes de discrimination à l’égard des femmes et des filles",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "5.1.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "5.1.1 Présence ou absence d’un cadre juridique visant à promouvoir, faire respecter et suivre l’application des principes d’égalité des sexes et de non-discrimination fondée sur le sexe ",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "Existence"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère des Affaires Sociales, loi 06/2021"
+                }
+            ]
+        },
+        {
+            "codeCible": "5.2",
+            "cible": "Éliminer de la vie publique et de la vie privée toutes les formes de violence faite aux femmes et aux filles, y compris la traite et l’exploitation sexuelle et d’autres types d’exploitation",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "5.2.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "5.3",
+            "cible": "Éliminer toutes les pratiques préjudiciables, telles que le mariage des enfants, le mariage précoce ou forcé et la mutilation génitale féminine",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "5.3.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "Proportion",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "Proportion",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "5.4",
+            "cible": "Prendre en compte et valoriser les soins et travaux domestiques non rémunérés, par la mise en place de services publics, d’infrastructures et de politiques de protection sociale et par la promotion du partage des responsabilités dans le ménage et la famille, en fonction du contexte national",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "5.4.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "5.5",
+            "cible": "Veiller à ce que les femmes participent pleinement et effectivement aux fonctions de direction à tous les niveaux de décision, dans la vie politique, économique et publique, et y accèdent sur un pied d’égalité",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "5.5.1",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "5.5.1 Proportion de sièges occupés par des femmes dans les parlements nationaux et les administrations locales (% des sièges) ",
+                    "donnees": [
+                        {
+                            "description": "Parlement",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "15.8",
+                                "2017": "14.2",
+                                "2021": "18"
+                            }
+                        },
+                        {
+                            "description": "Maire titulaire",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2017": "13",
+                                "2021": "22.4"
+                            }
+                        },
+                        {
+                            "description": "Adjoint au Maire",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "27.5"
+                            }
+                        },
+                        {
+                            "description": "Président de Conseil Départemental",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2017": "27",
+                                "2021": "12.5"
+                            }
+                        },
+                        {
+                            "description": "Vice-Président de Conseil Départemental",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "23.5"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Intérieur (Mandature 2019-2024)"
+                },
+                {
+                    "codeIndicateur": "5.5.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "5.6",
+            "cible": "Assurer l’accès de tous aux soins de santé sexuelle et procréative et faire en sorte que chacun puisse exercer ses droits en matière de procréation, ainsi qu’il a été décidé dans le Programme d’action de la Conférence internationale sur la population et le développement et le Programme d’action de Beijing et les documents finals des conférences d’examen qui ont suivi",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "5.6.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "5.6.1 Proportion de femmes âgées de 15 à 49 ans prenant, en connaissance de cause, leurs propres décisions concernant leurs relations sexuelles, l’utilisation de contraceptifs et les soins de santé procréative",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "33.6"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS (EDS)"
+                }
+            ]
+        },
+        {
+            "codeCible": "5.a",
+            "cible": "Entreprendre des réformes visant à donner aux femmes les mêmes droits aux ressources économiques, ainsi que l’accès à la propriété et au contrôle des terres et d’autres formes de propriété, aux services financiers, à l’héritage et aux ressources naturelles, dans le respect de la législation interne",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "5.a.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "5.a.1 a) Proportion de la population agricole totale ayant des droits de propriété ou des droits garantis sur des terres agricoles, par sexe",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2018": "86.6"
+                            }
+                        },
+                        {
+                            "description": "Hommes",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2018": "22.2"
+                            }
+                        },
+                        {
+                            "description": "Femmes",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2018": "62.4"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS (Recensement Général de l’Agriculture)"
+                }
+            ]
+        },
+        {
+            "codeCible": "5.b",
+            "cible": "Renforcer l’utilisation des technologies clefs, en particulier de l’informatique et des communications, pour favoriser l’autonomisation des femmes",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "5.b.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "5.b.1 Proportion de la population possédant un téléphone portable (%)",
+                    "donnees": [
+                        {
+                            "description": "Ménages dont le chef est une femme",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "91"
+                            }
+                        },
+                        {
+                            "description": "Ménages dont le chef est un homme",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "86.3"
+                            }
+                        },
+                        {
+                            "description": "Ménages urbains ",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "93.2"
+                            }
+                        },
+                        {
+                            "description": "Ménages ruraux ",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "67.7"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS (Recensement Général de la Population et des Logements 2013 –RGPL20132013-)"
+                }
+            ]
+        }
+    ],
+    "6": [
+        {
+            "codeCible": "6.1",
+            "cible": "D’ici à 2030, assurer l’accès universel et équitable à l’eau potable, à un coût abordable",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "6.1.1",
+                    "graphique": "GroupeBarres",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "6.1.1 Proportion de la population utilisant des services d’alimentation en eau potable gérés en toute sécurité (%)",
+                    "donnees": [
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "56.4"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "47.1"
+                            }
+                        },
+                        {
+                            "description": "Quantité totale de ressources d’eau douce prélevée (TWW)",
+                            "unite": "m3/personne/an",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "710.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Energie"
+                }
+            ]
+        },
+        {
+            "codeCible": "6.2",
+            "cible": "D’ici à 2030, assurer l’accès de tous, dans des conditions équitables, à des services d’assainissement et d’hygiène adéquats et mettre fin à la défécation en plein air, en accordant une attention particulière aux besoins des femmes et des filles et des personnes en situation vulnérable",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "6.2.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "6.2.1 Proportion de la population utilisant des services d’assainissement : ",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2013": "3.9"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "3.2"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "8.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS (Recensement Général de la Population et des Logements 2013)"
+                }
+            ]
+        },
+        {
+            "codeCible": "6.4",
+            "cible": "D’ici à 2030, faire en sorte que les ressources en eau soient utilisées beaucoup plus efficacement dans tous les secteurs et garantir la viabilité des prélèvements et de l’approvisionnement en eau douce afin de remédier à la pénurie d’eau et de réduire nettement le nombre de personnes qui manquent d’eau",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "6.4.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "6.4.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "6.a",
+            "cible": "D’ici à 2030, développer la coopération internationale et l’appui au renforcement des capacités des pays en développement en ce qui concerne les activités et programmes relatifs à l’eau et à l’assainissement, y compris la collecte, la désalinisation et l’utilisation rationnelle de l’eau, le traitement des eaux usées, le recyclage et les techniques de réutilisation.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "6.a.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        }
+    ],
+    "7": [
+        {
+            "codeCible": "7.1",
+            "cible": "D’ici à 2030, garantir l’accès de tous à des services énergétiques fiables et modernes, à un coût abordable",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "7.1.1",
+                    "graphique": "GroupeLignesDouble",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "7.1.1 Proportion de la population ayant accès à l’électricité (%)",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "86",
+                                "2017": "86",
+                                "2019": "91"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "94",
+                                "2017": "98",
+                                "2019": "98"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "33",
+                                "2017": "20",
+                                "2019": "24"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS (Recensement Général de la Population et des Logements 2013, Enquête Gabonaise pour l’Evaluation et le Suivi et sur la pauvreté –EGEP-), Ministère de l’Energie"
+                },
+                {
+                    "codeIndicateur": "7.1.2",
+                    "graphique": "GroupeLignesDouble",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "7.1.2 Proportion de la population utilisant principalement des carburants et technologies propres",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2013": "83",
+                                "2017": "87.2"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "91.5",
+                                "2017": "94.9"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "28.4",
+                                "2017": "37.5"
+                            }
+                        },
+                        {
+                            "description": "Chef de ménage homme",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "85",
+                                "2017": "86.9"
+                            }
+                        },
+                        {
+                            "description": "Chef de ménage femme",
+                            "unite": "%",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "81.1",
+                                "2017": "88"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {
+                        "": "Proportion de la population ayant accès à des combustibles propres (gaz, électricité) (%)"
+                    },
+                    "source": "DGS (Recensement Général de la Population et des Logements 2013,  EGEP)"
+                }
+            ]
+        },
+        {
+            "codeCible": "7.2",
+            "cible": "D’ici à 2030, accroître nettement la part de l’énergie renouvelable dans le bouquet énergétique mondial",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "7.2.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "7.2.1 Part de l’énergie renouvelable dans la consommation finale d’énergie (%)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "85.8",
+                                "2017": "90.1",
+                                "2018": "89.9"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Banque Mondiale"
+                }
+            ]
+        },
+        {
+            "codeCible": "7.3",
+            "cible": "D’ici à 2030, multiplier par deux le taux mondial d’amélioration de l’efficacité énergétique",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "7.3.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "7.3.1 Intensité énergétique [rapport entre énergie primaire et produit intérieur brut (PIB)], %PIB",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "9.1",
+                                "2017": "6.7",
+                                "2018": "6.6"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Banque Mondiale"
+                }
+            ]
+        },
+        {
+            "codeCible": "7.b",
+            "cible": "D’ici à 2030, développer l’infrastructure et améliorer la technologie afin de fournir des services énergétiques modernes et durables à tous les habitants des pays en développement, en particulier des pays les moins avancés, des petits États insulaires en développement et des pays en développement sans littoral, dans le respect des programmes d’aide qui les concernent. ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "7.b.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "7.b.1 Puissance installée du parc d’énergie renouvelable dans les pays en développement (en watts par habitant)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "106",
+                                "2017": "161",
+                                "2018": "157"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Banque Mondiale"
+                }
+            ]
+        }
+    ],
+    "8": [
+        {
+            "codeCible": "8.1",
+            "cible": "Maintenir un taux de croissance économique par habitant adapté au contexte national et, en particulier, un taux de croissance annuelle du produit intérieur brut d’au moins 7 % dans les pays les moins avancés.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.1.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.1.1 Taux de croissance annuelle du PIB réel par habitant",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2014": "1.4",
+                                "2017": "-2.3",
+                                "2019": "1.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Direction Générale de l’Economie et de la Politique Fiscale (DGEPF),DGS"
+                }
+            ]
+        },
+        {
+            "codeCible": "8.2",
+            "cible": "Parvenir à un niveau élevé de productivité économique par la diversification, la modernisation technologique et l’innovation, notamment en mettant l’accent sur les secteurs à forte valeur ajoutée et à forte intensité de main-d’œuvre",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.2.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.2.1 Taux de croissance annuelle du PIB réel par personne pourvue d’un emploi",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2017": "0.9",
+                                "2018": "1.4",
+                                "2019": "6.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGEPF,DGS"
+                },
+                {
+                    "codeIndicateur": "8.3.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.3.1 Proportion de l’emploi informel dans l’emploi total, par secteur et par sexe (en %)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "47"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Enquête Nationale sur l’Emploi et le Chômage, en cours de publication"
+                }
+            ]
+        },
+        {
+            "codeCible": "8.4",
+            "cible": "Améliorer progressivement, jusqu’en 2030, l’efficacité de l’utilisation des ressources mondiales dans les modes de consommation et de production et s’attacher à dissocier croissance économique et dégradation de l’environnement, comme prévu dans le Cadre décennal de programmation concernant les modes de consommation et de production durables, les pays développés montrant l’exemple en la matière. ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.4.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "8.4.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "8.5",
+            "cible": "D’ici à 2030, parvenir au plein emploi productif et garantir à toutes les femmes et à tous les hommes, y compris les jeunes et les personnes handicapées, un travail décent et un salaire égal pour un travail de valeur égale. ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.5.2",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.5.2 Taux de chômage, par sexe, âge et situation au regard du handicap (en %)",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2010": "20.8"
+                            }
+                        },
+                        {
+                            "description": "Hommes",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "14.4"
+                            }
+                        },
+                        {
+                            "description": "Femmes",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "28.5"
+                            }
+                        },
+                        {
+                            "description": " 25 – 34 ans",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "44.7"
+                            }
+                        },
+                        {
+                            "description": "< 24 ans",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {
+                                "2019": "36"
+                            }
+                        },
+                        {
+                            "description": "Personnes vivant avec un handicap",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {}
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère en charge de l’Emploi :Enquête Nationale sur l’Emploi et le Chômage (ENEC), en cours de publication, Plan d’Accélération de la Transformation"
+                }
+            ]
+        },
+        {
+            "codeCible": "8.6",
+            "cible": "D’ici à 2020, réduire nettement la proportion de jeunes non scolarisés et sans emploi ni formation. ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.6.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.6.1 Proportion de jeunes (âgés de 15 à 24 ans) non scolarisés et sans emploi ni formation",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2013": "32.7"
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "34"
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "27"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "RGPL2013 "
+                }
+            ]
+        },
+        {
+            "codeCible": "8.7",
+            "cible": "Prendre des mesures immédiates et efficaces pour supprimer le travail forcé, mettre fin à l’esclavage moderne et à la traite d’êtres humains, interdire et éliminer les pires formes de travail des enfants, y compris le recrutement et l’utilisation d’enfants soldats, et, d’ici à 2025, mettre fin au travail des enfants sous toutes ses formes.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.7.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "8.8",
+            "cible": "Défendre les droits des travailleurs, promouvoir la sécurité sur le lieu de travail et assurer la protection de tous les travailleurs, y compris les migrants, en particulier les femmes, et ceux qui ont un emploi précaire. ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.8.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "8.8.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "8.9",
+            "cible": "D’ici à 2030, élaborer et mettre en œuvre des politiques visant à développer un tourisme durable qui crée des emplois et met en valeur la culture et les produits locaux",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.9.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.9.1 PIB directement tiré du tourisme, en proportion du PIB total et en taux de croissance (en %)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2009": "5.3"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère du Tourisme, Comptes satellites du Tourisme 2009"
+                },
+                {
+                    "codeIndicateur": "8.9.2",
+                    "graphique": "Liste",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.9.2 Nombre d’emplois dans les secteurs du tourisme, en proportion du nombre total d’emplois et du taux de croissance des emplois, par sexe ",
+                    "donnees": [
+                        {
+                            "description": "Nombre d’emplois ",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2009": "14000"
+                            }
+                        },
+                        {
+                            "description": "Proportion des emplois  (en %)",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2009": "11.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère du Tourisme, Comptes satellites du Tourisme 2009"
+                }
+            ]
+        },
+        {
+            "codeCible": "8.10",
+            "cible": "Renforcer la capacité des institutions financières nationales de favoriser et généraliser l’accès de tous aux services bancaires et financiers et aux services d’assurance",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.10.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.10.1 a) Nombre de succursales de banques commerciales pour 100 000 adultes et b) nombre de distributeurs automatiques de billets pour 100 000 adultes ",
+                    "donnees": [
+                        {
+                            "description": "Nombre de succursales",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "3.4"
+                            }
+                        },
+                        {
+                            "description": "Distributeurs automatiques de billets",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "11.8"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGEPF"
+                },
+                {
+                    "codeIndicateur": "8.10.2",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.10.2 Proportion d’adultes (15 ans ou plus) ou faisant appel à des services monétaires mobiles (%) ",
+                    "donnees": [
+                        {
+                            "description": "possédant un compte dans une banque ",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "34"
+                            }
+                        },
+                        {
+                            "description": "ou dans une autre institution financière",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {}
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "FMI"
+                }
+            ]
+        },
+        {
+            "codeCible": "8.b",
+            "cible": "D’ici à 2020, élaborer et mettre en œuvre une stratégie mondiale en faveur de l’emploi des jeunes et appliquer le Pacte mondial pour l’emploi de l’Organisation internationale du Travail. ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "8.b.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "8.b.1 Existence d’une stratégie nationale de promotion de l’emploi des jeunes, qu’il s’agisse d’une stratégie à part entière ou d’une composante d’une stratégie nationale de promotion de l’emploi, et application de cette stratégie",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "Existence"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Emploi et de la Fonction Publique/Office National de l’Emploi"
+                }
+            ]
+        }
+    ],
+    "9": [
+        {
+            "codeCible": "9.1",
+            "cible": "Mettre en place une infrastructure de qualité, fiable, durable et résiliente, y compris une infrastructure régionale et transfrontière, pour favoriser le développement économique et le bien-être de l’être humain, en privilégiant un accès universel, financièrement abordable et équitable. ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "9.1.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "9.1.2",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "9.1.2 Nombre de passagers et volume de fret, par mode de transport",
+                    "donnees": [
+                        {
+                            "description": "Passagers voie ferroviaire (en milliers)",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "237.4",
+                                "2017": "321.7",
+                                "2019": "321.9"
+                            }
+                        },
+                        {
+                            "description": "Fret voie ferroviaire (en millions de tonnes)",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "4.7",
+                                "2017": "5.8",
+                                "2019": "7.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGEPF"
+                }
+            ]
+        },
+        {
+            "codeCible": "9.2",
+            "cible": "Promouvoir une industrialisation durable qui profite à tous et, d’ici à 2030.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "9.2.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "9.2.1 Valeur ajoutée dans l’industrie manufacturière, en proportion du PIB et par habitant (%PIB/habitant)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "0.4",
+                                "2017": "-2.9",
+                                "2019": "0.4"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGEPF "
+                },
+                {
+                    "codeIndicateur": "9.2.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "9.2.2 Emploi dans l’industrie manufacturière, en proportion de l’emploi total (%)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "7.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Economie et de la Relance/Ministère en charge de l’Emploi (Enquête Nationale sur le Chômage et l’Emploi, en cours de publication"
+                }
+            ]
+        },
+        {
+            "codeCible": "9.3",
+            "cible": "Accroître, en particulier dans les pays en développement, l’accès des entreprises, notamment des petites entreprises industrielles, aux services financiers, y compris aux prêts consentis à des conditions abordables, et leur intégration aux chaînes de valeur et aux marchés. ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "9.3.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "9.3.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "9.4.",
+            "cible": "D’ici à 2030, moderniser l’infrastructure et adapter les industries afin de les rendre durables.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "9.4.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "9.4.1 Emission de CO2 par unité de valeur ajoutée",
+                    "donnees": [
+                        {
+                            "description": "Internet",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "45.8",
+                                "2012": "50.3",
+                                "2013": "61"
+                            }
+                        },
+                        {
+                            "description": "Téléphone mobile",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "144.9",
+                                "2012": "129",
+                                "2013": "137.8"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère des Eaux et Forêts (MINEF)"
+                }
+            ]
+        },
+        {
+            "codeCible": "9.c",
+            "cible": "Accroître nettement l’accès aux technologies de l'information et de communication et faire en sorte que tous les habitants des pays les moins avancés aient accès à internet à un coût abordable d'ici à 2020",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "9.c.1",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "9.c.1 Proportion de la population ayant accès à un réseau mobile, par type de technologie",
+                    "donnees": [
+                        {
+                            "description": "Abonnement internet (% population)",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "13",
+                                "2019": "61"
+                            }
+                        },
+                        {
+                            "description": "Abonnement au téléphone mobile (pour 100 habitants)",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "144.9",
+                                "2019": "137.8",
+                                "2020": "138.8"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère  la Communication et de l’Économie Numérique/Union International des Télécommunications"
+                }
+            ]
+        }
+    ],
+    "10": [
+        {
+            "codeCible": "10.1",
+            "cible": "D’ici à 2030, assurer progressivement et durablement une croissance des revenus des 40 % de la population les plus pauvres à un rythme plus rapide que le revenu moyen national",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "10.1.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "10.2",
+            "cible": "D’ici à 2030, autonomiser toutes les personnes et favoriser leur intégration sociale, économique et politique, indépendamment de leur âge, de leur sexe, de leur handicap, de leur race, de leur appartenance ethnique, de leurs origines, de leur religion ou de leur statut économique ou autre",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "10.2.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "10.3",
+            "cible": "Assurer l’égalité des chances et réduire l’inégalité des résultats, notamment en éliminant les lois, politiques et pratiques discriminatoires et en encourageant l’adoption de lois, politiques et mesures adéquates en la matière",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "10.3.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "10.4",
+            "cible": "Adopter des politiques, notamment sur les plans budgétaire, salarial et dans le domaine de la protection sociale, afin de parvenir progressivement à une plus grande égalité",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "10.4.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "10.4.1 Part du travail dans le PIB (%)",
+                    "donnees": [
+                        {
+                            "description": "10.4.1 Part du travail dans le PIB (%)",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2010": "26.2",
+                                "2012": "26.7",
+                                "2013": "27"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Banque Mondiale"
+                }
+            ]
+        },
+        {
+            "codeCible": "10.5",
+            "cible": "Améliorer la réglementation et la surveillance des institutions et marchés financiers mondiaux et renforcer l’application des règles",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "10.5.1",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "10.5.1 Indicateurs de solidité financière ",
+                    "donnees": [
+                        {
+                            "description": "Capital réglementaire bancaire total par rapport aux actifs pondérés en fonction des risques",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "8.3",
+                                "2017": "9.7",
+                                "2019": "16.4"
+                            }
+                        },
+                        {
+                            "description": "Total du capital (valeur nette) aux actifs",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "9.3",
+                                "2017": "7.8",
+                                "2019": "9.8"
+                            }
+                        },
+                        {
+                            "description": "Créances improductives (% créances totales)",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "5.3",
+                                "2017": "10.8",
+                                "2019": "7.7"
+                            }
+                        },
+                        {
+                            "description": "Créances improductives nettes de dotation en capital",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "6.5",
+                                "2017": "6",
+                                "2019": "7.6"
+                            }
+                        },
+                        {
+                            "description": "Revenus nets sur capital moyen",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "13.5",
+                                "2017": "27.9",
+                                "2019": "23.6"
+                            }
+                        },
+                        {
+                            "description": "Dépenses hors intérêts par rapport au revenu brut",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "76.6",
+                                "2017": "88.2",
+                                "2019": "63.1"
+                            }
+                        },
+                        {
+                            "description": "Actifs liquides (% actifs total)",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "24.4",
+                                "2017": "24.2",
+                                "2019": "25.9"
+                            }
+                        },
+                        {
+                            "description": "Actifs liquides (% passifs à court terme)",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "148.3",
+                                "2017": "149.3",
+                                "2019": "140.1"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Commission Bancaire de l’Afrique Centrale "
+                }
+            ]
+        },
+        {
+            "codeCible": "10.7",
+            "cible": "Faciliter la migration et la mobilité de façon ordonnée, sûre, régulière et responsable, notamment par la mise en œuvre de politiques migratoires planifiées et bien gérées",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "10.7.4",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "10.7.4 Proportion de réfugiés dans la population, par pays d’origine (% population)",
+                    "donnees": [
+                        {
+                            "description": "Tchad",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "0.005"
+                            }
+                        },
+                        {
+                            "description": "République Démocratique du Congo",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "0.005"
+                            }
+                        },
+                        {
+                            "description": "Congo Brazzaville",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "0.003"
+                            }
+                        },
+                        {
+                            "description": "République Centrafricaine",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "0.001"
+                            }
+                        },
+                        {
+                            "description": "Autres",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "0.003"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Commission Nationale des réfugiés"
+                }
+            ]
+        },
+        {
+            "codeCible": "10.b",
+            "cible": "Stimuler l’aide publique au développement et les flux financiers, y compris les investissements étrangers directs, en faveur des États qui en ont le plus besoin, en particulier les pays les moins avancés, les pays d’Afrique, les petits États insulaires en développement et les pays en développement sans littoral, conformément à leurs plans et programmes nationaux",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "10.b.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "10.c",
+            "cible": "D’ici à 2030, faire baisser au-dessous de 3 % les coûts de transaction des envois de fonds effectués par les migrants et éliminer les circuits d’envois de fonds dont les coûts sont supérieurs à 5 %",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "10.c.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        }
+    ],
+    "11": [
+        {
+            "codeCible": "11.1",
+            "cible": "D’ici à 2030, assurer l’accès de tous à un logement et des services de base adéquats et sûrs, à un coût abordable, et assainir les quartiers de taudis",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "11.1.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "11.1.1 Proportion de la population urbaine vivant dans des quartiers de taudis, des implantations sauvages ou des logements inadéquats (%)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2014": "37",
+                                "2016": "36.6",
+                                "2018": "36.6"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Banque mondiale/DGS"
+                }
+            ]
+        },
+        {
+            "codeCible": "11.2",
+            "cible": "D’ici à 2030, assurer l’accès de tous à des systèmes de transport sûrs, accessibles et viables, à un coût abordable, en améliorant la sécurité routière, notamment en développant les transports publics, une attention particulière devant être accordée aux besoins des personnes en situation vulnérable, des femmes, des enfants, des personnes handicapées et des personnes âgées",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "11.2.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "11.3",
+            "cible": "Text missing!",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "11.3.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "11.3.1 Ratio entre le taux d’utilisation des terres et le taux de croissance démographique",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2014": "0.39",
+                                "2016": "0.47",
+                                "2018": "0.57"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Plan National d’Affectation des Terres/MINEF"
+                }
+            ]
+        },
+        {
+            "codeCible": "11.4",
+            "cible": "Redoubler d’efforts pour protéger et préserver le patrimoine culturel et naturel mondial",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "11.4.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "11.5",
+            "cible": "D’ici à 2030, réduire nettement le nombre de personnes tuées et le nombre de personnes touchées par les catastrophes, y compris celles qui sont liées à l’eau, et réduire nettement la part du produit intérieur brut mondial représentée par les pertes économiques directement imputables à ces catastrophes, l’accent étant mis sur la protection des pauvres et des personnes en situation vulnérable",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "11.5.1",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "11.5.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100 000 personnes",
+                    "donnees": [
+                        {
+                            "description": "Personnes décédées",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {}
+                        },
+                        {
+                            "description": "Personnes disparues",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {}
+                        },
+                        {
+                            "description": "Personnes directement touchées",
+                            "unite": "",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2014": "52",
+                                "2016": "47",
+                                "2018": "44"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Intérieur, Direction Générale de la Protection Civile"
+                }
+            ]
+        },
+        {
+            "codeCible": "11.6",
+            "cible": "D’ici à 2030, réduire l’impact environnemental négatif des villes par habitant, y compris en accordant une attention particulière à la qualité de l’air et à la gestion, notamment municipale, des déchets",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "11.6.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "11.6.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "11.7",
+            "cible": "D’ici à 2030, assurer l’accès de tous, en particulier des femmes et des enfants, des personnes âgées et des personnes handicapées, à des espaces verts et des espaces publics sûrs",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "11.7.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        }
+    ],
+    "12": [
+        {
+            "codeCible": "12.6",
+            "cible": "Encourager les entreprises, en particulier les grandes entreprises et les sociétés transnationales, à adopter des pratiques viables et à intégrer dans les rapports qu’elles établissent des informations sur la viabilité",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "12.6.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "12.a",
+            "cible": "Aider les pays en développement à se doter des moyens scientifiques et technologiques qui leur permettent de s’orienter vers des modes de consommation et de production plus durables",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "12.a.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "12.8 :",
+            "cible": "D’ici à 2030, faire en sorte que toutes les personnes, partout dans le monde, aient les informations et connaissances nécessaires au développement durable et à un style de vie en harmonie avec la nature",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "12.8.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "12.1:",
+            "cible": "Mettre en œuvre le Cadre décennal de programmation concernant les modes de consommation et de production durables avec la participation de tous les pays, les pays développés montrant l’exemple en la matière, compte tenu du degré de développement et des capacités des pays en développement",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "12.1.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "12.4",
+            "cible": "D’ici à 2020, parvenir à une gestion écologiquement rationnelle des produits chimiques et de tous les déchets tout au long de leur cycle de vie, conformément aux principes directeurs arrêtés à l’échelle internationale, et réduire nettement leur déversement dans l’air, l’eau et le sol, afin de minimiser leurs effets négatifs sur la santé et l’environnement",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "12.4.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "12.2 :",
+            "cible": "D’ici à 2030, parvenir à une gestion durable et à une utilisation rationnelle des ressources naturelles",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "12.2.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "12.5",
+            "cible": "D’ici à 2030, réduire nettement la production de déchets par la prévention, la réduction, le recyclage et la réutilisation",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "12.5.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "12.c",
+            "cible": "Rationaliser les subventions aux combustibles fossiles qui sont source de gaspillage, grâce à l’élimination des distorsions du marché, eu égard au contexte national, y compris au moyen de la restructuration de la fiscalité et de la suppression progressive des subventions préjudiciables qui sont en place, en mettant en évidence leur impact sur l’environnement, en tenant pleinement compte des besoins et de la situation propres aux pays en développement et en réduisant au minimum les éventuels effets négatifs sur le développement de ces pays tout en protégeant les pauvres et les populations concernées",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "12.c.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        }
+    ],
+    "13": [
+        {
+            "codeCible": "13.1",
+            "cible": "Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "13.1.1",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "13.1.1 Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes, pour 100 000 personnes",
+                    "donnees": [
+                        {
+                            "description": "Personnes décédées",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {}
+                        },
+                        {
+                            "description": "Personnes disparues",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "cacher",
+                            "valeurs": {}
+                        },
+                        {
+                            "description": "Personnes directement touchées",
+                            "unite": "",
+                            "groupe": "3",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "52",
+                                "2018": "47",
+                                "2021": "44"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Intérieur, Direction Générale de la Protection Civile"
+                },
+                {
+                    "codeIndicateur": "13.1.3",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "13.2",
+            "cible": "Incorporer des mesures relatives aux changements climatiques dans les politiques, les stratégies et la planification nationales",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "13.2.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "13.2.2",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "13.2.2 Total des émissions annuelles de gaz à effet de serre ",
+                    "donnees": [
+                        {
+                            "description": "Emission d’oxyde nitreux agricole (en milliers métriques d’équivalent CO2)",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "340",
+                                "2015": "390",
+                                "2018": "330"
+                            }
+                        },
+                        {
+                            "description": "Emission de CO2 (tonne métrique par habitants)",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "3.3",
+                                "2015": "2.8",
+                                "2018": "2.2"
+                            }
+                        },
+                        {
+                            "description": "Accès à des combustion et techniques de cuisson propre (en % de population totale )",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "75.8",
+                                "2015": "78.1"
+                            }
+                        },
+                        {
+                            "description": "Production d’électricité à partir des sources d’énergie renouvelable hors énergie hydro-électriques (% du total)",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "0.6",
+                                "2015": "0.6"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "MINEF"
+                }
+            ]
+        },
+        {
+            "codeCible": "13.3",
+            "cible": "Améliorer l’éducation, la sensibilisation et les capacités individuelles et institutionnelles en ce qui concerne l’adaptation aux changements climatiques, l’atténuation de leurs effets et la réduction de leur impact et les systèmes d’alerte rapide",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "13.3.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        }
+    ],
+    "14": [
+        {
+            "codeCible": "14.1 D’ici",
+            "cible": "à 2025, prévenir et réduire nettement la pollution marine de tous types, en particulier celle résultant des activités terrestres, y compris les déchets en mer et la pollution par les nutriments",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "14.1.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "14.2",
+            "cible": "D’ici à 2020, gérer et protéger durablement les écosystèmes marins et côtiers, notamment en renforçant leur résilience, afin d’éviter les graves conséquences de leur dégradation et prendre des mesures en faveur de leur restauration pour rétablir la santé et la productivité des océans",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "14.2.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "14.4",
+            "cible": "D’ici à 2020, réglementer efficacement la pêche, mettre un terme à la surpêche, à la pêche illicite, non déclarée et non réglementée et aux pratiques de pêche destructrices et exécuter des plans de gestion fondés sur des données scientifiques, l’objectif étant de rétablir les stocks de poissons le plus rapidement possible, au moins à des niveaux permettant d’obtenir un rendement constant maximal compte tenu des caractéristiques biologiques",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "14.4.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "14.4.1 Proportion de stocks de poissons se situant à un niveau biologiquement viable (proxy : fluctuations des stocks de poissons dans les inventaires de ressources, fréquentation des eaux gabonaises par les armements étrangers)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "Entre 50000 et 90000/an (en tonnes)"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Agriculture et de la Pêche"
+                }
+            ]
+        },
+        {
+            "codeCible": "14.5",
+            "cible": "D’ici à 2020, préserver au moins 10 % des zones marines et côtières, conformément au droit national et international et compte tenu des meilleures informations scientifiques disponibles",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "14.5.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "14.7",
+            "cible": "D’ici à 2030, faire bénéficier plus largement les petits États insulaires en développement et les pays les moins avancés des retombées économiques de l’exploitation durable des ressources marines, notamment grâce à une gestion durable des pêches, de l’aquaculture et du tourisme",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "14.7.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "14.7.1 Surface des aires marines protégées, en proportion de la surface totale ",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "63.7",
+                                "2017": "63.69",
+                                "2018": "63.69"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "MINEF"
+                }
+            ]
+        },
+        {
+            "codeCible": "14.b",
+            "cible": "Garantir aux petits pêcheurs l’accès aux ressources marines et aux marchés",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "14.b.1",
+                    "graphique": "Liste",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "14.b.1 : Progrès réalisés par les pays dans la mise en œuvre d’un cadre juridique, réglementaire, politique ou institutionnel reconnaissant et protégeant les droits d’accès des petits pêcheurs : nombre de coopératives, nombre de centres de pêche artisanale, nombre d’autorisations de pêche délivrées",
+                    "donnees": [
+                        {
+                            "description": "Nombre de coopérative",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "70"
+                            }
+                        },
+                        {
+                            "description": "Nombre de centres de pêche sur la façade maritime",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "4"
+                            }
+                        },
+                        {
+                            "description": "Nombre de centres de pêche sur le continent",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "5"
+                            }
+                        },
+                        {
+                            "description": "Nombre d’autorisation de pêche délivrée",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "660"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Agriculture et de la Pêche"
+                }
+            ]
+        }
+    ],
+    "15": [
+        {
+            "codeCible": "15.1",
+            "cible": "D’ici à 2020, garantir la préservation, la restauration et l’exploitation durable des écosystèmes terrestres et des écosystèmes d’eau douce et des services connexes, en particulier des forêts, des zones humides, des montagnes et des zones arides, conformément aux obligations découlant des accords internationaux",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "15.1.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "15.1.1 Surface des zones forestières en proportion de la surface terrestre (proxy en milliers d’ha)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2016": "82.2",
+                                "2018": "82.2",
+                                "2019": "85.9"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "MINEF "
+                },
+                {
+                    "codeIndicateur": "15.1.2",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "15.1.2 Proportion des sites important pour la biodiversité terrestre et la biodiversité des eaux douces qui se trouve dans les aires protégées (par type d’écosystème) /proxy en milliers d’ha). ",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2016": "3341",
+                                "2018": "3341",
+                                "2019": "3341"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "MINEF (précision attendue car les données ne cadrent pas avec l’indicateur)"
+                }
+            ]
+        },
+        {
+            "codeCible": "15.2",
+            "cible": "D’ici à 2020, promouvoir la gestion durable de tous les types de forêt, mettre un terme à la déforestation, restaurer les forêts dégradées et accroître nettement le boisement et le reboisement au niveau mondial",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "15.2.1",
+                    "graphique": "Bandes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "15.2.1 Progrès vers la gestion durable des forêts ",
+                    "donnees": [
+                        {
+                            "description": "Surfaces aménagées",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "81.9"
+                            }
+                        },
+                        {
+                            "description": "dont surface certifiée",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "19.7"
+                            }
+                        },
+                        {
+                            "description": "Surface en cours d'aménagement",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2020": "7.4"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "MINEF (% de la surface forestière concédée)"
+                }
+            ]
+        },
+        {
+            "codeCible": "15.7",
+            "cible": "Prendre d’urgence des mesures pour mettre un terme au braconnage et au trafic d’espèces végétales et animales protégées et s’attaquer au problème sous l’angle de l’offre et de la demande ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "15.7.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "15.9",
+            "cible": "D’ici à 2020, intégrer la protection des écosystèmes et de la biodiversité dans la planification nationale, dans les mécanismes de développement, dans les stratégies de réduction de la pauvreté et dans la comptabilité",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "15.9.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "15.a",
+            "cible": "Mobiliser des ressources financières de toutes provenances et les augmenter nettement pour préserver la biodiversité et les écosystèmes et les exploiter durablement",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "15.a.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        }
+    ],
+    "16": [
+        {
+            "codeCible": "16.1",
+            "cible": "Réduire nettement, partout dans le monde, toutes les formes de violence et les taux de mortalité qui y sont associés",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "16.1.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non  ",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "16.1.3",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "16.1.4",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "16.1.4 Nombre de personnes considérant qu’il n’y a pas de danger à se déplacer seules à pied dans leur zone de résidence, en proportion de la population totale ",
+                    "donnees": [
+                        {
+                            "description": "Proportion de ménages non pauvres ayant eu peur d’être agressé hors de leurs ménages au cours des 12 derniers mois",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2017": "46.6"
+                            }
+                        },
+                        {
+                            "description": "Proportion de ménages pauvres ayant eu peur d’être agressé hors de leurs ménages au cours des 12 derniers mois",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2017": "33.9"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS/EGEP 2017"
+                }
+            ]
+        },
+        {
+            "codeCible": "16.2",
+            "cible": "Mettre un terme à la maltraitance, à l’exploitation et à la traite, et à toutes les formes de violence et de torture dont sont victimes les enfants",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "16.2.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "16.2.3",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "16.3",
+            "cible": "Promouvoir l’état de droit dans l’ordre interne et international et garantir à tous un égal accès à la justice",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "16.3.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                },
+                {
+                    "codeIndicateur": "16.3.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "16.3.2 Proportion de la population carcérale en instance de jugement (proxy)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2021": "3210"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Justice, Garde des sceaux "
+                }
+            ]
+        },
+        {
+            "codeCible": "16.4",
+            "cible": "D’ici à 2030, réduire nettement les flux financiers illicites et le trafic d’armes, renforcer les activités de récupération et de restitution des biens volés et lutter contre toutes les formes de criminalité organisée",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "16.4.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "16.5",
+            "cible": "Réduire nettement la corruption et la pratique des pots-de-vin sous toutes leurs formes",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "16.5.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "16.5.1 Proportion de personnes ayant eu, au moins une fois, affaire à un agent public auquel elles ont versé un pot-de-vin ou qui leur a demandé un pot-de-vin au cours des 12 mois précédents (%)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "**",
+                                "2013": "**",
+                                "2021": "20"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS/EGEP 2017"
+                },
+                {
+                    "codeIndicateur": "16.5.2",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "16.6",
+            "cible": "Mettre en place des institutions efficaces, responsables et transparentes à tous les niveaux",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "16.6.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "16.7",
+            "cible": "Faire en sorte que le dynamisme, l’ouverture, la participation et la représentation à tous les niveaux caractérisent la prise de décisions",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "16.7.2",
+                    "graphique": "Liste",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "16.7.2 Proportion de la population qui estime que la prise de décisions est ouverte et réactive (%)",
+                    "donnees": [
+                        {
+                            "description": "Par la femme pour ce qui est de ses soins de santé ",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "26"
+                            }
+                        },
+                        {
+                            "description": "Par la femme pour ce qui est des achats importants pour le ménage",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "37.9"
+                            }
+                        },
+                        {
+                            "description": "Visites à la famille ou aux parents de la femme",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "34.3"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS/EDS 2012"
+                }
+            ]
+        },
+        {
+            "codeCible": "16.9",
+            "cible": "D’ici à 2030, garantir à tous une identité juridique, notamment grâce à l’enregistrement des naissances",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "16.9.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "16.9.1 Proportion d’enfants de moins de 5 ans ayant été enregistrés par une autorité d’état civil, par âge (%)",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2013": "98.4"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGS/RGPL2013 2013"
+                }
+            ]
+        },
+        {
+            "codeCible": "16.10",
+            "cible": "Garantir l’accès public à l’information et protéger les libertés fondamentales, conformément à la législation nationale et aux accords internationaux",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "16.10.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "16.10.1 Nombre de cas avérés de meurtres, d’enlèvements, de disparitions forcées, de détentions arbitraires et d’actes de torture dont ont été victimes des journalistes, des personnes travaillant dans les médias, des syndicalistes et des défenseurs des droits de l’homme au cours des 12 mois précédents",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "Aucun cas recensé"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de la Justice, Garde des sceaux"
+                }
+            ]
+        }
+    ],
+    "17": [
+        {
+            "codeCible": "17.1",
+            "cible": "Améliorer, notamment grâce à l’aide internationale aux pays en développement, la mobilisation de ressources nationales en vue de renforcer les capacités nationales de collecte de l’impôt et d’autres recettes ",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.1.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "17.1.1 Total des recettes publiques en proportion du PIB, par source",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "30.1",
+                                "2015": "21.1",
+                                "2019": "20.5"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGEPF"
+                },
+                {
+                    "codeIndicateur": "17.1.2",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "17.1.2 Proportion du budget national financé par les impôts nationaux",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "38.9",
+                                "2015": "50.2",
+                                "2019": "31"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGEPF"
+                }
+            ]
+        },
+        {
+            "codeCible": "17.3",
+            "cible": "Mobiliser des ressources financières supplémentaires de diverses provenances en faveur des pays en développement",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.3.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "17.3.1 Investissements étrangers directs, aide publique au développement et coopération Sud-Sud, en proportion du revenu national brut",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2015": "6.9",
+                                "2019": "9.2"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGEPF"
+                }
+            ]
+        },
+        {
+            "codeCible": "17.4",
+            "cible": "Aider les pays en développement à assurer la viabilité à long terme de leur dette au moyen de politiques concertées visant à favoriser le financement de la dette, son allégement ou sa restructuration, selon le cas, et réduire le surendettement en réglant le problème de la dette extérieure des pays pauvres très endettés",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.4.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "17.4.1 Service de la dette en proportion des exportations de biens et services ",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "6.6",
+                                "2015": "15.4",
+                                "2019": "20.4"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGEPF"
+                }
+            ]
+        },
+        {
+            "codeCible": "17.6",
+            "cible": "Renforcer l’accès à la science, à la technologie et à l’innovation et la coopération Nord-Sud et Sud-Sud et la coopération triangulaire régionale.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.6.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "17.6.1 Abonnements à une connexion à Internet à haut débit fixe pour 100 habitants, par vitesse de connexion",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "0.3",
+                                "2015": "0.6",
+                                "2019": "1"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère  la Communication et de l’Économie Numérique/Union International des Télécommunications"
+                }
+            ]
+        },
+        {
+            "codeCible": "17.8",
+            "cible": "Faire en sorte que la banque de technologies et le mécanisme de renforcement des capacités scientifiques et technologiques et des capacités d’innovation des pays les moins avancés soient pleinement opérationnels d’ici à 2017 et renforcer l’utilisation des technologies clefs, en particulier de l’informatique et des communications",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.8.1",
+                    "graphique": "Ligne",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "17.8.1 Proportion de la population utilisant Internet",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2012": "24",
+                                "2015": "45.8",
+                                "2019": "61"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "Ministère de l’Économie Numérique"
+                }
+            ]
+        },
+        {
+            "codeCible": "17.10",
+            "cible": "Promouvoir un système commercial multilatéral universel, réglementé, ouvert, non discriminatoire et équitable sous l’égide de l’Organisation mondiale du commerce.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.10.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "17.13",
+            "cible": "Renforcer la stabilité macroéconomique mondiale, notamment en favorisant la coordination et la cohérence des politiques.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.13.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "17.13.1 Tableau de bord macroéconomique",
+                    "donnees": [
+                        {
+                            "description": "",
+                            "unite": "",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": "Oui"
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": "DGEPF"
+                }
+            ]
+        },
+        {
+            "codeCible": "17.17",
+            "cible": "Encourager et promouvoir les partenariats publics, les partenariats public-privé et les partenariats avec la société civile, en faisant fond sur l’expérience acquise et les stratégies de financement appliquées en la matière",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.17.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "17.18",
+            "cible": "D’ici à 2020, apporter un soutien accru au renforcement des capacités des pays en développement en collecte de données.",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.18.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        },
+        {
+            "codeCible": "17.19",
+            "cible": "D’ici à 2030, tirer parti des initiatives existantes pour établir des indicateurs de progrès en matière de développement durable qui viendraient compléter le produit intérieur brut, et appuyer le renforcement des capacités statistiques des pays en développement",
+            "indicateurs": [
+                {
+                    "codeIndicateur": "17.19.1",
+                    "graphique": "",
+                    "indicateurDisponible": "Non",
+                    "indicateur": "",
+                    "donnees": [],
+                    "titreGroupe": {},
+                    "source": ""
+                }
+            ]
+        }
+    ]
+}
