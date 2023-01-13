@@ -173,35 +173,38 @@
             "indicateurs": [
                 {
                     "codeIndicateur": "1.4.1",
-                    "graphique": "Bandes",
+                    "graphique": "GroupeLignesDouble",
                     "indicateurDisponible": "Oui",
                     "indicateur": "1.4.1 Proportion de la population vivant dans des ménages ayant accès aux services de base (%) (l’accès simultané à l’éducation primaire, à l’eau potable, aux toilettes améliorées, à l’électricité et aux combustibles propres) ",
                     "donnees": [
                         {
                             "description": "Gabon",
                             "unite": "%",
-                            "groupe": "",
+                            "groupe": "1",
                             "parametre": "comparer",
                             "valeurs": {
-                                "2017": "50"
+                                "2017": "50",
+                                "2018": "54"
                             }
                         },
                         {
                             "description": "Urbain",
                             "unite": "%",
-                            "groupe": "",
+                            "groupe": "2",
                             "parametre": "",
                             "valeurs": {
-                                "2017": "66"
+                                "2017": "66",
+                                "2018": "64"
                             }
                         },
                         {
                             "description": "Rural",
                             "unite": "%",
-                            "groupe": "",
+                            "groupe": "2",
                             "parametre": "",
                             "valeurs": {
-                                "2017": "6.2"
+                                "2017": "6.2",
+                                "2018": "5.3"
                             }
                         }
                     ],
