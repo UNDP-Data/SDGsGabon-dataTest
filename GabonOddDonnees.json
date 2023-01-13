@@ -215,7 +215,7 @@
                 {
                     "codeIndicateur": "1.5.1",
                     "graphique": "",
-                    "indicateurDisponible": "Non",
+                    "indicateurDisponible": "Oui",
                     "indicateur": "",
                     "donnees": [],
                     "titreGroupe": {},
@@ -226,7 +226,19 @@
                     "graphique": "",
                     "indicateurDisponible": "Non",
                     "indicateur": "",
-                    "donnees": [],
+                    "donnees": [
+                        {
+                        "description": "1.5.4 Pertes économiques directement attribuables à des catastrophes par rapport au produit intérieur brut mondial (PIB)",
+                        "unite": "%",
+                        "groupe": "",
+                        "parametre": "",
+                        "valeurs": {
+                            "2017": "2.3",
+                            "2018": "1.2",
+                            "2020": "1.2"
+                            }
+                        }
+                    ],
                     "titreGroupe": {},
                     "source": ""
                 }
