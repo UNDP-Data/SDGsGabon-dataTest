@@ -6,7 +6,7 @@
             "indicateurs": [
                 {
                     "codeIndicateur": "1.1.1",
-                    "graphique": "",
+                    "graphique": "Lignes",
                     "indicateurDisponible": "Oui",
                     "indicateur": "1.1.1 Proportion de la population vivant au-dessous du seuil de pauvreté fixé au niveau international, par sexe, âge et lieu de résidence (zone urbaine/zone rurale) (5,5 dollars/jour) (%)",
                     "donnees": [
@@ -16,7 +16,9 @@
                             "groupe": "",
                             "parametre": "",
                             "valeurs": {
-                                "2017": "32.2"
+                                "2017": "32.2",
+                                "2018": 27,
+                                "2020": 24.3
                             }
                         }
                     ],
