@@ -277,6 +277,79 @@
                     ],
                     "titreGroupe": {},
                     "source": ""
+                },
+                {
+                    "codeIndicateur": "1.4.4",
+                    "graphique": "GroupeBarres",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "1.4.4 Description",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2019": 6.4,
+                                "2020": 9.8
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": 6.7,
+                                "2020": 9.2
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": 6.9,
+                                "2020": 10.7
+                            }
+                        },
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "comparer",
+                            "valeurs": {
+                                "2019": 6.4,
+                                "2020": 9.8
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": 6.7,
+                                "2020": 9.2
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019": 6.9,
+                                "2020": 10.7
+                            }
+                        },
+                    ],
+                    "titreGroupe": {
+                        "1":"First title",
+                        "2":"Second title"
+                    },
+                    "source": ""
                 }
             ]
         },
