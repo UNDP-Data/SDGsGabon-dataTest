@@ -205,6 +205,38 @@
                     ],
                     "titreGroupe": {},
                     "source": "DGS/EGEP 2017"
+                },
+                {
+                    "codeIndicateur": "1.4.2",
+                    "graphique": "GroupeLignes",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "1.4.2. Indicator title",
+                    "donnees": [
+                        {
+                            "description": "Ligne 1",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2018":2.3,
+                                "2019":1.2,
+                                "2020":0.9 
+                            }
+                        },
+                        {
+                            "description": "Ligne 2",
+                            "unite": "%",
+                            "groupe": "",
+                            "parametre": "",
+                            "valeurs": {
+                                "2018":4.3,
+                                "2019":12.2,
+                                "2020":13.9 
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": ""
                 }
             ]
         },
