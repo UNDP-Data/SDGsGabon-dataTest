@@ -237,6 +237,46 @@
                     ],
                     "titreGroupe": {},
                     "source": ""
+                },
+                {
+                    "codeIndicateur": "1.4.3",
+                    "graphique": "GroupeLignesDouble",
+                    "indicateurDisponible": "Oui",
+                    "indicateur": "1.4.3 Description",
+                    "donnees": [
+                        {
+                            "description": "Gabon",
+                            "unite": "%",
+                            "groupe": "1",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019":3.4,
+                                "2020":4.6 
+                            }
+                        },
+                        {
+                            "description": "Urbain",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019":3.7,
+                                "2020":4.9 
+                            }
+                        },
+                        {
+                            "description": "Rural",
+                            "unite": "%",
+                            "groupe": "2",
+                            "parametre": "",
+                            "valeurs": {
+                                "2019":3.1,
+                                "2020":4 
+                            }
+                        }
+                    ],
+                    "titreGroupe": {},
+                    "source": ""
                 }
             ]
         },
